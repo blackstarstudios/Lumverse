@@ -364,7 +364,7 @@ Feet - boots, shoes
     32 The End: the end of the universe
 
 - Book of Angels
-- Book of Devils and Demons
+- HelluBook of Devils and Demons
 
 - Book of Fire
 - Book of Water
@@ -374,9 +374,9 @@ Feet - boots, shoes
 - Book of Dark
 - Book of Space
 - Book of Time
-- Book of Poisons
+- 1000 Petals = Book of Poisons
 - Book of Potions
-- Book of Monster Hunting
+- Rose's Monster Hunting Guide = Book of Monster Hunting
 - Book of Songs
 - Book of Compass
 - Book of Dungeons
@@ -387,29 +387,28 @@ Feet - boots, shoes
 - Book of History
 - Book of Pride
 - Book of Wrath
-- Book of Forbidden
+- Inconzeil = Book of Forbidden
 - Book of Witch
 - Book of Forge
 - Book of Lust
 - Book of Nightmares
 - Book of Greed
-- Book of Misfortune
+- Tally of Curses = Book of Misfortune
 - Book of Hunt
 - Book of Medicine
 
-- Beasts and Monsters = monster bio book
+- Lufauna = monster bio book
 - Birds of Prey = bird special bio book
-- Book of Beasts
-- Book of Marine
+- Fang and Paw = Book of Beasts
+- Aquamara = Book of Marine
+- Terrerium = Book of Plants
+- Igni = Book of Dragons
+- Glaious Extrana = Book of Spirits 
 - Book of Plants
-- Book of Dragons
-- Book of Spirits 
-- Book of Plants
-- Book of the Undead
+- Ghohgna = Book of the Undead
 - Book of Geography
 - Book of Forging
 - Book of Law
-- Book of Curses
 - Book of War
 - Book of Forge
 - Book of Lust
