@@ -577,3 +577,54 @@ Boss: Balbis, The First Demon Monarch (Demon Royal)
 - Miniboss: 
 - Miniboss: 
 - Miniboss: 
+
+
+__Land Before Shogrinn's Dungeon Boss__
+: Balbis, The First Demon Monarch (Demon Royal)
+
+> G (Inspired by)
+
+__Penrigon's Dungeon Boss__
+: Modaraithu, The Cursed God (Original Dragon)
+
+> Cursed Dragon (Inspired by)
+
+__Hor's Gate's Dungeon Boss__
+: Frorshneel, The Calamity Cold (Frost Dragon “”)
+
+> G (Inspired by "World After the End" ice dragon)
+
+__Orthorix's Dungeon Boss__
+: Pau, Fallen Archangel (fallen angel)
+
+> G (Inspired by)
+
+__Forgotten Hollow's Dungeon Boss__
+: Abu, The Last Carnic Beast (Relic Beast “Swallow”)
+
+> G (Inspired by)
+
+__The Depth's Dungeon Boss__
+: ,  (Leviathan)
+
+> G (Inspired by)
+
+__Nalgarden's Dungeon Boss__
+: Yinnigur, The Ending Tree (Ancient Tree)
+
+> G (Inspired by)
+
+__Ancestral Plain's Dungeon Boss__
+: ,  (Yokai)
+
+> G (Inspired by)
+
+__Deousgon's Dungeon Boss__
+: ,  (Giant)
+
+> G (Inspired by)
+
+__Colussus's Dungeon Boss__
+: Zermyr, The Bloodletter (Guardian Snake)
+
+> G (Inspired by)

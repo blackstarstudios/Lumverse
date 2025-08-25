@@ -686,3 +686,67 @@ fungal_overlord = Archetype("Fungal Overlord", "Summoner", "Commands fungal mini
 demonologist = Archetype("Demonologist", "Summoner", "Summons demons", "Demonology")
 totemcaller = Archetype("Totemcaller", "Summoner", "Summons totems for aid", "Totem Magic")
 starforger = Archetype("Starforger", "Summoner", "Summons cosmic entities", "Cosmic")
+
+Offense
+Melee
+Fast - assassin
+Mid - swordsman 
+Slow - warrior
+
+Magic
+Fast - 
+Mid - 
+Slow - 
+
+Tech
+Fast
+Mid
+Slow
+
+Defense
+Melee
+Fast - 
+Mid - knight
+Slow - tank
+
+Magic
+Fast
+Mid
+Slow
+
+Tech
+Fast
+Mid
+Slow
+
+Range
+Melee
+Fast
+Mid
+Slow
+
+Magic
+Fast
+Mid
+Slow
+
+Tech
+Fast
+Mid
+Slow
+
+Support
+Melee
+Fast
+Mid
+Slow
+
+Magic
+Fast
+Mid - 
+Slow - priest
+
+Tech
+Fast
+Mid
+Slow

@@ -58,3 +58,21 @@ Keep categories broad for easy reference, but detailed enough to cover unique it
 Consider mechanical impact: If an item is only flavor, it might go in a "Miscellaneous" or "Personal Effects" group.
 
 Review existing RPGs for inspiration and adapt to your setting and mechanics
+
+
+Bucket
+Rope
+Torch
+Lamp
+Sleeping bag
+Climbing gear
+Pickaxe
+Axe
+Knife
+Map
+Bag
+Compass
+Blanket
+Fire starter
+Fishing rod
+Boat
