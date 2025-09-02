@@ -1,7 +1,7 @@
 # Named Monsters
 
 ### A
--   
+- [Abu](/Entities/Monsters/Dossiers/Named/abu.md)  
 ### B
 -   
 ### C
@@ -54,7 +54,15 @@
 -   
 
 
-# Name
+# Name, MainTitle
+(Gender) (Race) 
+
+- Alias: 
+- Ambition: 
+- Job(s): 
+- Lums worth: 
+- REP: 
+
 ## Classification
 - Monster Type: 
 - Studied name:
@@ -79,12 +87,12 @@
 - LUC: 
 
 ## Origin: 
-- Habitat:
-- Native Region: 
+- Place of Birth:
+- Current Location:
 - History: 
 
 ## Biography
-Notes on biography 
+Notes on biography
 
 ## Characteristics
 ### Appearance
@@ -96,6 +104,8 @@ Notes on biography
 
 ### Behavior
 - Temperment: 
+- Mannerisms:
+- Sociability: 
 - Social structure:
 - Hunting patterns:
 
@@ -107,7 +117,7 @@ Notes on biography
 - Movement: 
 
 ### Combat
-- Weapons: 
+- Natural weapons: 
 - Elements:
 - Skills: 
 - Combat Arts: 
@@ -115,10 +125,27 @@ Notes on biography
 - Powers: 
 - Trump Cards:
 
+## Equipment:
+- Primary weapon:
+- Secondary weapon:
+- Other weapons:
+
+- Work Attire:
+- Artifacts:
+- Tools:
+
 ## Relationships
-- Allies: 
-- Neutral:  
-- Rivals: 
+- Divinity:
+- Mentors:
+- Allies:
+- Afilitations:
+- Rivals:
+- Enemies:
+
+## Interests
+- Goals: 
+- Notable achievements: 
+- Hobbies:
 
 ## Threat Assessment
 - Weaknesses: 
@@ -131,84 +158,3 @@ Notes on biography
 Block of notes
 
 [Back](/Entities/Monsters/monsters.md)
-
-# Name, MainTitle
-(Gender) (Race) 
-
-- Alias: 
-- Ambition: 
-- Job(s): 
-- Lums: 
-- REP: 
-
-# Stats
-- HP: 
-- MP: 
-- AP: 
-- SP: 
-
-- STR: 
-- DEF: 
-- AGI: 
-- SPD: 
-- PRO: 
-- MAG: 
-- CHR: 
-- INT: 
-- FRT: 
-- LUC: 
-
-# Biography
-Notes on biography
-
-# Origin
-- Family:
-- Place of Birth:
-- Current Location:
-
-# Description
-## Apperance
-- Height: 
-- Build: 
-- Skin tone: 
-- Eye color: 
-- Hair color: 
-- Distinctive marks:
-
-## Personality 
-- Sociability: 
-- Mannerisms:
-
-# Abilities
-- Skills: 
-- Combat Arts: 
-- Magics: 
-- Powers: 
-- Trump Cards:
-
-# Equipment:
-- Primary weapon:
-- Secondary weapon:
-- Other weapons:
-
-- Work Attire:
-- Artifacts:
-- Tools:
-
-# Interests
-- Goals: 
-- Notable achievements: 
-- Hobbies:
-
-# Relationships
-- Divinity:
-- Mentors:
-- Allies:
-- Afilitations:
-- Rivals:
-- Enemies:
-
-# Notes
-Block of notes
-
-[Back](/Entities/People/people.md)
