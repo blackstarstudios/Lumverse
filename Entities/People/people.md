@@ -356,39 +356,138 @@ __Barri & Miel founding Guildmaster__
 
 __Barri & Miel current Guildmaster
 
+### A
+-   
+### B
+-   
+### C
+-   
+### D
+-   
+### E
+-   
+### F
+- 
+-  
+### G
+- [Gahl](/Entities/People/Profiles/gahl.md)
+- [Grimini](/Entities/People/Profiles/grimini.md)
+### H
+-   
+### I
+-   
+### J
+-   
+### K
+-   
+### L
+-   
+### M
+-   
+### N
+-   
+### O
+-   
+### P
+-   
+### Q
+-   
+### R
+-   
+### S
+-   
+### T
+-   
+### U
+-   
+### V
+-   
+### W
+-   
+### X
+-   
+### Y
+-   
+### Z
+-   
 
-## Background
+# Name, MainTitle
+(Gender) (Race) 
 
+- Alias: 
+- Ambition: 
+- Job(s): 
+- Lums: 
+- REP: 
 
-## Biographical Information
-### Titles
+## Stats
+- HP: 
+- MP: 
+- AP: 
+- SP: 
 
-### Alias
+- STR: 
+- DEF: 
+- AGI: 
+- SPD: 
+- PRO: 
+- MAG: 
+- CHR: 
+- INT: 
+- FRT: 
+- LUC: 
 
-### Hobbies
+## Biography
+Notes on biography
 
-### Goals
+## Origin
+- Family:
+- Place of Birth:
+- Current Location:
 
-
-## Physical Information
+## Description
 ### Apperance
+- Height: 
+- Build: 
+- Skin tone: 
+- Eye color: 
+- Hair color: 
+- Distinctive marks:
 
-### Personality
+### Personality 
+- Sociability: 
+- Mannerisms:
 
+## Abilities
+- Skills: 
+- Combat Arts: 
+- Magics: 
+- Powers: 
+- Trump Cards:
 
-## Relationship Information
-### Guardian
+## Equipment:
+- Primary weapon:
+- Secondary weapon:
+- Other weapons:
 
-### Loyalties
+- Work Attire:
+- Artifacts:
+- Tools:
 
-### Enemies
+## Interests
+- Goals: 
+- Notable achievements: 
+- Hobbies:
 
+## Relationships
+- Divinity:
+- Mentors:
+- Allies:
+- Afilitations:
+- Rivals:
+- Enemies:
 
-## Equipment Information
-### Powers
+## Notes
+Block of notes
 
-### Abilities
-
-### Trump Cards
-
-### Weapon
+[Back](/Entities/People/people.md)
